@@ -8,3 +8,8 @@ EX: on découvre une boullette, un orateur veut changer le titre de sa conf etc
 Contenu du "CODE" 
 * 1 fichier PDF A4 pour chaque 1/2 journée
 * 1 fichier PDF pour compiler ces 1/2 journées au format A6 recto verso pour Badge participant 
+
+## Les ISSUES : modeOP
+* Les demandes de modification de session sont taguées "SESSION"
+* Les coquilles, faute de frappes sont taguées "COQUILLE"
+
