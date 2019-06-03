@@ -13,7 +13,8 @@ Contenu du "CODE"
 * Les demandes de modification de session sont taguées "SESSION"
 * Les coquilles, faute de frappes sont taguées "COQUILLE"
 
-## Le PROCESSUS ##
+## Le PROCESSUS
+
 1 Correction à faire sur les SVG
 2 produire les PDF
 3 Compiler les 2 SVG de la journée dans un compil SVG pour le programme Grand Format
