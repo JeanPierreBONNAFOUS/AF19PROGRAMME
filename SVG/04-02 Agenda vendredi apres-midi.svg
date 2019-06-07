@@ -41,8 +41,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.3711596"
-     inkscape:cx="164.90948"
-     inkscape:cy="27.448967"
+     inkscape:cx="225.05371"
+     inkscape:cy="9.766134"
      inkscape:document-units="mm"
      inkscape:current-layer="layer9"
      showgrid="false"
@@ -166,7 +166,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
@@ -1108,7 +1108,7 @@
            id="tspan1826"
            x="69.3713"
            y="737.81415"
-           style="font-size:8px">programme_AF19 V1.03</tspan></text>
+           style="font-size:8px">programme_AF19 V1.04</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1693,7 +1693,8 @@
            id="use1318"
            width="100%"
            height="100%" /></flowRegion><flowPara
-         id="flowPara1320">Coache ton responsable produit</flowPara></flowRoot>    <flowRoot
+         id="flowPara1320">Developper sa maturité </flowPara><flowPara
+         id="flowPara1693">produit, ce qu'il faut savoir!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot1357"
