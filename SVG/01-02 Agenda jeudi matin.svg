@@ -55,24 +55,24 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.6855798"
-     inkscape:cx="163.57625"
-     inkscape:cy="-28.304612"
+     inkscape:cx="208.91932"
+     inkscape:cy="101.77565"
      inkscape:document-units="mm"
      inkscape:current-layer="layer9"
      showgrid="false"
      inkscape:snap-grids="false"
      inkscape:snap-bbox="true"
      units="mm"
-     inkscape:window-width="1595"
-     inkscape:window-height="876"
-     inkscape:window-x="5"
-     inkscape:window-y="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="1600"
+     inkscape:window-y="323"
      inkscape:window-maximized="1"
      inkscape:snap-bbox-midpoints="true"
      inkscape:bbox-nodes="true"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      inkscape:snap-to-guides="true"
      borderlayer="false"
      inkscape:snap-nodes="true"
@@ -193,7 +193,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
       </cc:Work>
@@ -1206,7 +1206,7 @@
            id="tspan1826"
            x="69.001755"
            y="734.83459"
-           style="font-size:8px">programme_AF19 V1.03</tspan></text>
+           style="font-size:8px">programme_AF19 V1.05</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
@@ -1587,7 +1587,8 @@
            xlink:href="#rect4685"
            id="use8774"
            width="100%"
-           height="100%" /></flowRegion><flowPara
+           height="100%"
+           transform="translate(-355.68446,206.13349)" /></flowRegion><flowPara
          id="flowPara8776">Faire de l'entreprise une aventure humaine</flowPara></flowRoot>    <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#96ff00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35171825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4691"
@@ -1603,7 +1604,7 @@
        x="18.897638"
        y="385.55228" />
     <rect
-       y="385.55228"
+       y="158.78061"
        x="177.6378"
        height="173.85828"
        width="158.74016"
@@ -1614,7 +1615,7 @@
        id="rect4119"
        width="158.74016"
        height="173.85828"
-       x="18.897638"
+       x="812.62463"
        y="158.78059" />
     <rect
        y="158.78059"
@@ -1628,8 +1629,8 @@
        id="rect4826"
        width="158.74016"
        height="173.85828"
-       x="177.6378"
-       y="158.78059" />
+       x="495.1181"
+       y="385.55228" />
     <rect
        y="385.55228"
        x="336.37796"
@@ -1649,8 +1650,8 @@
        id="rect4664"
        width="158.74016"
        height="173.85828"
-       x="812.62463"
-       y="158.78059" />
+       x="177.6378"
+       y="385.55228" />
     <rect
        style="display:inline;opacity:1;vector-effect:none;fill:#00ffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.35171825px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4668"
@@ -1761,7 +1762,8 @@
            xlink:href="#rect4685"
            id="use4231"
            width="100%"
-           height="100%" /></flowRegion><flowPara
+           height="100%"
+           transform="translate(-355.28892,213.09744)" /></flowRegion><flowPara
          id="flowPara3057">Créez vos</flowPara><flowPara
          id="flowPara1851">jeux pédagogiques pour parler de vos sujets sérieux.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -1818,8 +1820,8 @@
        id="rect2708"
        width="158.74017"
        height="173.85826"
-       x="495.1181"
-       y="385.55228" />
+       x="18.897629"
+       y="158.78061" />
     <flowRoot
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:100%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2238,7 +2240,7 @@
     </g>
     <g
        id="g1827-2-8"
-       transform="matrix(0.07003016,0,0,0.07003016,305.25382,350.00895)"
+       transform="matrix(0.07003016,0,0,0.07003016,622.73414,576.78063)"
        style="display:inline;stroke-width:14.27956295">
       <g
          id="g1698-7-9"
@@ -2739,7 +2741,7 @@
     </g>
     <g
        id="g1827-2-99"
-       transform="matrix(0.07003016,0,0,0.07003016,940.24065,350.00895)"
+       transform="matrix(0.07003016,0,0,0.07003016,305.25378,576.78062)"
        style="display:inline;stroke-width:14.27956295">
       <g
          id="g1698-7-3"
@@ -3214,7 +3216,7 @@
     </g>
     <g
        id="g2632-6"
-       transform="matrix(0.08922397,0,0,0.08922397,614.02731,572.98325)"
+       transform="matrix(0.08922397,0,0,0.08922397,137.80684,346.21158)"
        style="display:inline;stroke-width:11.20775032">
       <g
          id="g2521-50"
@@ -3355,7 +3357,7 @@
     </g>
     <g
        id="g2632-1"
-       transform="matrix(0.08922397,0,0,0.08922397,296.547,572.98324)"
+       transform="matrix(0.08922397,0,0,0.08922397,296.547,346.21159)"
        style="display:inline;stroke-width:11.20775032">
       <g
          id="g2521-8"
@@ -3669,7 +3671,7 @@
     <g
        style="display:inline"
        id="g2051-3"
-       transform="matrix(0.05446664,0,0,0.05446664,147.52797,354.86782)">
+       transform="matrix(0.05446664,0,0,0.05446664,941.25502,354.86783)">
       <g
          id="g14-6">
         <g
@@ -3888,7 +3890,7 @@
      style="display:inline">
     <g
        style="display:inline"
-       transform="translate(-158.25582,-390.86202)"
+       transform="translate(635.47123,-390.86201)"
        id="g2337-9">
       <g
          id="g2349-2">
@@ -3911,7 +3913,7 @@
     <g
        style="display:inline"
        id="g2345-8"
-       transform="translate(4.4843445,-394.86202)">
+       transform="translate(321.96466,-168.09034)">
       <rect
          y="771.32764"
          x="175.15346"
@@ -3992,7 +3994,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(317.96466,-164.09034)"
+       transform="translate(-158.25581,-390.86201)"
        id="g2337-6">
       <g
          id="g2349-1">
@@ -4015,7 +4017,7 @@
     <g
        style="display:inline"
        id="g2345-5"
-       transform="translate(4.4843388,-168.09031)">
+       transform="translate(4.4843442,-394.86196)">
       <rect
          y="771.32764"
          x="175.15346"
@@ -4082,7 +4084,7 @@
     </g>
     <g
        style="display:inline"
-       transform="translate(635.47121,-390.862)"
+       transform="translate(0.48435636,-164.09033)"
        id="g2337-3">
       <g
          id="g2349-6">
