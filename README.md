@@ -16,9 +16,13 @@ Contenu du "CODE"
 ## Le PROCESSUS
 * Correction à faire sur les SVG
 * produire les PDF
-* Compiler les 2 SVG de la journée dans un compil SVG pour le programme Grand Format
+* Compiler les 4 PDF dans badge participants et orateurs
+* Imprimer badge
+* Compiler les 2 SVG de chaque journée un SVG A0, ajouter le nom des orateurs
+* Imprimer poster A0
 
 ---------------------------
+Le répertoire avec les sources SVG est supprimé. on le remettra quand les versions PDF seront stables!
+---------------------------
 
-## Un dossier avec les SVG Source
 
